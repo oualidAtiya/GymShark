@@ -10,7 +10,7 @@ export default function Header()
                     <i className="fa-solid fa-bars text-2xl"></i>
                 </div>
                 <div className="ml-5">
-                    <img src="image.avif" alt="logo" />
+                    <img src="image.png" alt="logo" />
                 </div>
                 <div className="flex space-x-3">
                     <div className="text-center h-full">
