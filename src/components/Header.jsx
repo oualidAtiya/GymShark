@@ -3,14 +3,14 @@ export default function Header()
     return(
         <header>
             <div className="bg-gray-100 text-center py-3 text-sm">
-                <p>Get 10% off your first order when you sign up to our emails. ✉️</p>
+                <p>Get 10% off your first order when you sign up .</p>
             </div>
             <div className="flex justify-between items-center px-5 pt-8 pb-2" >
                 <div className="text-center h-full">
                     <i className="fa-solid fa-bars text-2xl"></i>
                 </div>
                 <div className="ml-5">
-                    <img src="image.png" alt="logo" />
+                    <img src="logo.png" alt="logo" />
                 </div>
                 <div className="flex space-x-3">
                     <div className="text-center h-full">
